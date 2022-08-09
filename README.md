@@ -10,5 +10,4 @@ Allow each member to add their favorite movies. Movies should be identified by t
 Have a custom look and feel (style it however you like)
 It would be nice if the application provides a way to categories movies by their genres. In addition to that, a search option would be a really nice option.
 
-Deploy your app to any deployment platform of your choice. (check resources below) Feel free to add any other features you deem necessary within the time given.
 
