@@ -12,7 +12,3 @@ It would be nice if the application provides a way to categories movies by their
 
 Deploy your app to any deployment platform of your choice. (check resources below) Feel free to add any other features you deem necessary within the time given.
 
-PS: I need to see commits from all members of the project team.
-
-Django Deployment on Heroku
-Django Deployment on Azure
