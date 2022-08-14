@@ -3,7 +3,6 @@
 Case Study
 Cinemania is a community of Cinema enthusiasts. This community needs a web application that would allow to manage different members. Your task is a to develop this application using Django framework. This application should:
 
-
 Allow members to signup and provide their basic information (first name, last name, gender, age, and a profile image, registration date)
 provide a way for registered members to log in.
 provide for logged in members, a way see to latest favorite movies from other members.
