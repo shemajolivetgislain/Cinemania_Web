@@ -10,4 +10,3 @@ provide for logged in members, a way see to latest favorite movies from other me
 Allow each member to add their favorite movies. Movies should be identified by title, release date, main actors, genre(action, comedy,...), synopsis or description, movie poster (if available) and movie trailer link/url (if available), the member or user who has added it and when it's been added.
 Have a custom look and feel (style it however you like)
 It would be nice if the application provides a way to categories movies by their genres. In addition to that, a search option would be a really nice option.
-
